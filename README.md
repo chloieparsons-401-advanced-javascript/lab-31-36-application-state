@@ -41,7 +41,7 @@ Connect to a Store and Create a New Reducer
 
 ## UML
 
-![Connect A Store - App State](https://codesandbox.io/s/lab-31-36-app-state-vje5z) Please navigate to: assets/app_state.JPG.
+[Connect A Store - App State](https://codesandbox.io/s/lab-31-36-app-state-vje5z) Please navigate to: assets/app_state.JPG.
 
-![Create a New Reducer - App State](https://codesandbox.io/s/lab-31-36-app-state-reducers-hh3nh) Please navigate to: assets/new_reducer.JPG
+[Create a New Reducer - App State](https://codesandbox.io/s/lab-31-36-app-state-reducers-hh3nh) Please navigate to: assets/new_reducer.JPG
 
